@@ -71,5 +71,6 @@ WUF	Where Are You From?
 W8	Wait...
 7K	Sick
 R	are
+RU	are you
 F***	Fuck
 XXX	Sex
